@@ -70,4 +70,4 @@ This repository is configured with a GitHub Actions CI pipeline. On every push t
 
 ### Pipeline Success Screenshot
 
-![GitHub Actions CI Pipeline Success](https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20014743.png))
+![GitHub Actions CI Pipeline Success](https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20014743.png)
