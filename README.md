@@ -22,15 +22,13 @@ This project is a RESTful API for managing shell command tasks, built with Java,
 
 ## Postman Screenshots
 
-*You must add your screenshots here!*
+
 
 **1. Create Task (PUT /tasks)**
-
-
+https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20002137.png
 **2. Get All Tasks (GET /tasks)**
-
-
+https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20002137.png
 **3. Find by Name (GET /tasks/findByName)**
-
-
+https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20002147.png
 **4. Delete Task (DELETE /tasks/{id})**
+https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20002147.png

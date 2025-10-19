@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Optional;
-
+@CrossOrigin("*")
 @RestController // Marks this class as a REST API controller
 @RequestMapping("/tasks") // All endpoints in this class will start with http://.../tasks
 public class TaskController {
