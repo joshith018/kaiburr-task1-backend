@@ -36,3 +36,38 @@ https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-
 =======
 https://github.com/joshith018/kaiburr-task1-backend/blob/main/Screenshot%202025-10-20%20002147.png
 >>>>>>> 20e35fad770d4a5b409d4a33dfb9e26f46b9de4c
+
+---
+
+## Task 4: CI-CD Pipeline (GitHub Actions)
+
+This repository is configured with a GitHub Actions CI pipeline. On every push to the `main` branch, the pipeline automatically:
+1.  Checks out the code.
+2.  Sets up Java 17.
+3.  Performs a "code build" (`mvn package`) and "docker build" using the `Dockerfile`.
+
+### Pipeline Success Screenshot
+
+![GitHub Actions CI Pipeline Success](---
+
+## Task 4: CI-CD Pipeline (GitHub Actions)
+
+This repository is configured with a GitHub Actions CI pipeline. On every push to the `main` branch, the pipeline automatically:
+1.  Checks out the code.
+2.  Sets up Java 17.
+3.  Performs a "code build" (`mvn package`) and "docker build" using the `Dockerfile`.
+
+### Pipeline Success Screenshot
+
+![GitHub Actions CI Pipeline Success](---
+
+## Task 4: CI-CD Pipeline (GitHub Actions)
+
+This repository is configured with a GitHub Actions CI pipeline. On every push to the `main` branch, the pipeline automatically:
+1.  Checks out the code.
+2.  Sets up Java 17.
+3.  Performs a "code build" (`mvn package`) and "docker build" using the `Dockerfile`.
+
+### Pipeline Success Screenshot
+
+![GitHub Actions CI Pipeline Success](httpsGas-your-screenshot-link-here.png))
